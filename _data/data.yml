@@ -58,19 +58,19 @@ career-profile:
       Raunaq has a reputation for strong organizational skills, excellent communication skills, dedicated teamwork, attention to details & ability to work under pressure to balance competing priorities and meeting deadlines. 
       He has proven skills in handling and interacting with multiple vendors/ third parties in different phases of projects, leading & mentoring teams consisting of DevOps engineers, platform engineers, developers and cloud architects.
       You can [download his full resume/CV here]().
-      
+
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: Azure Cloud
+        level: 90%
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: Google Cloud
+        level: 85%
 
-      - name: Angular
-        level: 98%
+      - name: Amazon Web Services
+        level: 80%
 
       - name: HTML5 & CSS
         level: 95%
@@ -84,9 +84,9 @@ skills:
 education:
     title: Education
     info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
+      - degree: Bachelor Of Engineering (B.E)
+        university: University of Delhi - India
+        time: 2001 - 2005
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -95,17 +95,17 @@ education:
           pretium quis, sem.
             - Bullet point
             - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+#      - degree: BSc in Applied Mathematics
+#        university: Bristol University
+#        time: 2007 - 2011
+#        details: |
+#          Describe your study here lorem ipsum dolor sit amet, consectetuer
+#          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+#          sociis natoque penatibus et magnis dis parturient montes, nascetur
+#          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+#          pretium quis, sem.
+#            - Bullet point
+#            - Bullet point
 experiences:
     title: Experiences
     info:
