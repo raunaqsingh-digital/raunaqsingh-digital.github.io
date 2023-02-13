@@ -53,12 +53,34 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      With more than 17 years in the information technology, Raunaq has an extensive variety of experience in Cloud native solutioning, migrations, setup of cloud landing zones, consulting in multi-cloud environments (Azure, OCI, GCP, AWS). 
+      He also has extensive experience with public cloud governance, architecture & implementations for Microsoft Azure, AWS, GCP & Oracle OCI. 
+      Raunaq has a reputation for strong organizational skills, excellent communication skills, dedicated teamwork, attention to details & ability to work under pressure to balance competing priorities and meeting deadlines. 
+      He has proven skills in handling and interacting with multiple vendors/ third parties in different phases of projects, leading & mentoring teams consisting of DevOps engineers, platform engineers, developers and cloud architects.
+      You can [download his full resume/CV here]().
+      
+skills:
+    title: Skills &amp; Proficiency
+
+    toolset:
+      - name: Python & Django
+        level: 98%
+
+      - name: Javascript & jQuery
+        level: 98%
+
+      - name: Angular
+        level: 98%
+
+      - name: HTML5 & CSS
+        level: 95%
+
+      - name: Ruby on Rails
+        level: 85%
+
+      - name: Sketch & Photoshop
+        level: 60%
+
 education:
     title: Education
     info:
@@ -191,28 +213,6 @@ publications:
         link: "#"
         authors: Edgar T. Irons
         conference: "Comm. ACM 4 (1961), 51–55"
-
-skills:
-    title: Skills &amp; Proficiency
-
-    toolset:
-      - name: Python & Django
-        level: 98%
-
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
-        level: 60%
 
 footer: >
    <!-- Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>-->
