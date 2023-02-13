@@ -66,20 +66,20 @@ skills:
       - name: Azure Cloud
         level: 90%
 
-      - name: Google Cloud
+      - name: Google Cloud (GCP)
         level: 85%
 
-      - name: Amazon Web Services
+      - name: Amazon Web Services (AWS)
         level: 80%
 
-      - name: HTML5 & CSS
-        level: 95%
+      - name: Infrastructure As Code Using Terraform/Ansible
+        level: 90%
 
-      - name: Ruby on Rails
-        level: 85%
+      - name: Kubernetes/OpenShift/GKE/AKS/EKS
+        level: 70%
 
-      - name: Sketch & Photoshop
-        level: 60%
+#      - name: 
+#        level: 60%
 
 education:
     title: Education
@@ -87,6 +87,7 @@ education:
       - degree: Bachelor Of Engineering (B.E)
         university: University of Delhi - India
         time: 2001 - 2005
+#This part only gets populated if sidebar is made false.        
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -109,9 +110,12 @@ education:
 experiences:
     title: Experiences
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: Cloud Solutions Architect
+        time: 2021 - Present
+        company: CGI Canada Inc, Montreal, QC
+        client: Large Telecom Company
+        accomplishments: |
+          Describe Accomplishements
         details: |
           Describe your role here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -124,6 +128,7 @@ experiences:
           architecto beatae vitae dicta sunt explicabo.
             - Bullet point
             - Bullet point
+
       - role: Senior Software Engineer
         time: 2014 - 2015
         company: Google, London
