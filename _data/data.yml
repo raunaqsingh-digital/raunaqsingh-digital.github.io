@@ -114,7 +114,8 @@ experiences:
         time: 2021 - Present
         company: CGI Canada Inc, Montreal, QC
         client: Large Telecom Company
-        accomplishments: |
+        title_accomp: Accomplishments
+        details_accomp:
           Describe Accomplishements
         details: |
           Describe your role here lorem ipsum dolor sit amet, consectetuer
