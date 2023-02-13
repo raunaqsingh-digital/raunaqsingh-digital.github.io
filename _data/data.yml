@@ -72,10 +72,10 @@ skills:
       - name: Amazon Web Services (AWS)
         level: 80%
 
-      - name: Infrastructure As Code Using Terraform/Ansible
+      - name: IAC Using Terraform
         level: 90%
 
-      - name: Kubernetes/OpenShift/GKE/AKS/EKS
+      - name: K8S/GKE/AKS/EKS/OCP
         level: 70%
 
 #      - name: 
