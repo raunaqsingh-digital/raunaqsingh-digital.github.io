@@ -115,21 +115,24 @@ experiences:
         company: CGI Canada Inc, Montreal, QC
         client: Large Telecom Company
         title_accomp: Accomplishments
-        details_accomp:
-          Describe Accomplishements
+        details_accomp: |
+            - Defining and finalizing cloud operating model for Day 2 operations in terms of RACI implementation, tools finalization for monitoring, backup, ITSM integration, CMDB etc.
+            - Trained multiple teams on Cloud Landing zone setup, cloud fundamentals, Terraform & Database migration tools, techniques & migration process.
+            - Consulted on effective IP management & platform implementation techniques for Bell IoT environment residing on Azure. Provided recommendations on reducing IP usage for Pods running on AKS kubernetes clusters, IoT Hub IP management, subnetting on IP CIDR space in an effective manner to reduce the consumption of routable private IP CIDRs.
+            - Assisted EA team in understanding of Cloud Adoption Framework, Cloud Maturity & Cloud Native implementations.
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
+          Telecom provider is one of Canada’s largest telecommunications provider. 
+          It provides mobile service through its Mobility subsidiaries, and television through its Satellite TV (direct broadcast satellite) and IPTV subsidiaries.
 
+            - Consultant for Cloud strategy & implementation, working with multiple teams to implement public cloud environments.
+            - Cloud COE operationalization, Governance implementation and Best practices documentation & adherence. 
+            - Cloud migration strategy and planning - Infra/App/DB Discovery, Modelling, Migration Planning.
+            - Multi-Cloud Governance in terms of IAM, Cost, Policy & Tag implementation, assessment of Cloud Management platform like VMWare Cloud Health, Apptio Cloud ability, Morpheus Data.
+            - Driving the SLA targets, Project enhancement, streamline the client infrastructure with regard to reduction of Incident with proper control mechanisms.
+            - Cloud architecture assessments for various tenants of Bell as part of Cloud community of practise team.
+            - Key role in hiring & building the team.
+            - Provided trainings to the team members on technical topics & the latest technology. 
+            - Provided trainings to the team members on technical topics & the latest technology. 
       - role: Senior Software Engineer
         time: 2014 - 2015
         company: Google, London
