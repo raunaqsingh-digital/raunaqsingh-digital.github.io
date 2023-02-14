@@ -132,18 +132,61 @@ experiences:
             - Cloud architecture assessments for various tenants of Bell as part of Cloud community of practise team.
             - Key role in hiring & building the team.
             - Provided trainings to the team members on technical topics & the latest technology. 
-            - Provided trainings to the team members on technical topics & the latest technology. 
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
+            - Provided trainings to the team members on technical topics & the latest technology.
+            
+      - role: Cloud Solutions Architect
+        time: 2019 - 2021
+        company: NTT Data Canada Inc, Halifax, NS
+        client: Large US Based HealthCare Insurance Payer
+        title_accomp: Accomplishments
+        details_accomp: |
+            - Defining and finalizing cloud operating model for Day 2 operations in terms of RACI implementation, tools finalization for monitoring, backup, ITSM integration, CMDB etc.
+            - Trained multiple teams on Cloud Landing zone setup, cloud fundamentals, Terraform & Database migration tools, techniques & migration process.
+            - Consulted on effective IP management & platform implementation techniques for Bell IoT environment residing on Azure. Provided recommendations on reducing IP usage for Pods running on AKS kubernetes clusters, IoT Hub IP management, subnetting on IP CIDR space in an effective manner to reduce the consumption of routable private IP CIDRs.
+            - Assisted EA team in understanding of Cloud Adoption Framework, Cloud Maturity & Cloud Native implementations.
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          Large Insurance Payer is a leading healthcare not for profit payer organization situated in the New England area of US that provides healthcare coverage and wellness. 
+          Large Insurance Payer is among America’s highest-rated health plans according to an annual ranking by the National Committee for Quality Assurance (NCQA). 
+          
+            - Lead consultant for Azure Cloud strategy & implementation.
+            - Participate in various RFP initiatives for NTT Data for multiple clients. 
+            - IT Liaison to customer for Cloud Initiatives and multi vendor coordination.
+            - Lead a team of 15 Cloud/DevOps/Release Engineers as a Solutions Architect/Cloud Consultant responsible for implementing & enabling Cloud/Containers & DevSecOps practises within the customer IT Environment.
+            - Cloud Architecture review board proposals, cloud governance implementation & coordination.
+            - Cloud & DevSecOps Governance Board operationalization.
+            - Devised cloud strategy & architecture for Azure from scratch for the customer.
+            - Implementation of Infrastructure as Code tools - HashiCorp Terraform & Azure ARM Templates. 
+            - Implementation of Azure Architecture (Hub-Spoke) using cloud native components like Application Gateway, API Manager, Azure Service Bus, Azure Firewall, UDR, Azure Storage, Azure Functions, Cosmos DB, Azure SQL DB etc.
+            - Setup of Azure VPN & Express Route, VPN setup as failover for Express Route circuit.
+            - Production support and monitoring for Cloud Workloads using Azure Monitor, Alerts and Integration into ITSM tools like service now.
+            - Automation of various application deployments for Cloud & On-Prem applications using Azure Devops (Pipelines, Azure GIT, Artifacts).
+            - Cost Management, Budget management, Cost related Alerts & reporting for Azure Cost Governance.
+            - Policy & Tags implementation for Azure Governance.
+            - Azure Security center monitoring and implementation of Azure advisor recommendations.
+            - RBAC Setup & configuration for Azure.
+            - ChatOps enablement using Microsoft Virtual Assistant accelerator, Bot Framework, QnA, LUIS & Azure Cognitive services.
+            - Architecting Apple IWallet ID Card publishing application, hosted on Azure using all cloud native components.
+            - Setup & management of Azure File Share & sync services.
+            - Azure DevOps & Azure Cloud Administration.
+            - Oracle OCI Support for Architectural decisions, Release pipelines.
+            - POC for Oracle Cloud Backups & Alerts using Oracle Management Cloud (OMC).
+            - POC for running containerized apps on Oracle Kubernetes Engine (OKE).
+            - Setup of FastConnect & VPN on Oracle Cloud.
+            - Configuration & Management Database setup & operationalization. (CMDB).
+            - Red Hat OpenShift cluster implementation & administration.
+            - Creation of CI/CD Pipelines for various applications.
+            - Implementation of automated code reviews using SonarQube & Nexus IQ.
+            - POC for container image scanning tools.
+            - Container technology POC & proposals (Docker, Docker Swarm, Kubernetes (K8S), OKE (oracle OCI), AKS (Azure), RedHat Openshift (Enterprise K8S) on VMWare & Azure.)
+            - Roll out of Container technology using Red Hat OpenShift, cration and configuration of cluster nodes.
+            - Operationaliaztion of container environment for SIT & Production.
+            - Liason for the customer with Red Hat representatives for OpenShift.
+            - Integration of applications with automated test case execution tools like HP ALM/UFT.
+            - Coordination and collaboration with various Dev/Ops teams on various aspects of designs/solutions etc being provided in order to implement effective DevOps for client organization.
+            - Ensure quality of the deliveries are as per NTT standards.
+            - Leading issues/triage meetings with customer and ensuring appropriate resources are assigned for fixing issues.
+            - Managing & overseeing on-call roster for offshore team members providing support in 24*7 operating model. 
+
       - role: UI Developer
         time: 2012 - 2014
         company: Amazon, London
