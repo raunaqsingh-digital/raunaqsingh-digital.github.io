@@ -26,11 +26,13 @@
     {% if experience.details %}
     <div class="details">
       {{ experience.details | markdownify }}
-    </div><!--//details-->
-    <h3 class="accomp-title">
-      {{ experience.title_accomp }}
-    </h3>
-    <div class="details_accomp">
+    <div class="meta">
+     </div><!--//details-->
+      <h3 class="accomp-title">
+       {{ experience.title_accomp }}
+      </h3>
+    </div><!--//meta-->
+     <div class="details_accomp">
       {{ experience.details_accomp | markdownify }}
     </div><!--//details-->
     {% endif %}
