@@ -195,8 +195,6 @@ experiences:
         time: 2015 - 2017
         company: NTT Data India, Noida, UP
         client: Large US Based HealthCare Insurance Payer
-        title_accomp: Accomplishments
-        details_accomp: |
         details: |
           Large Insurance payer is a leading healthcare payer organization in US
           that provides healthcare coverage and wellness to Rhode Island. The company’s strategic mission is to improve the health of its members, strengthen relations with providers and simplify business processes.
@@ -213,8 +211,6 @@ experiences:
         time: 2008 - 2015
         company: Dell Services, Providence, RI, USA
         client: Large US Based HealthCare Insurance Payer
-        title_accomp: Accomplishments
-        details_accomp: |
         details: |
           Large Insurance payer is a leading healthcare payer organization in US
           that provides healthcare coverage and wellness to Rhode Island. The company’s strategic mission is to improve the health of its members, strengthen relations with providers and simplify business processes.
@@ -233,8 +229,6 @@ experiences:
         time: 2006 - 2008
         company: Perot Systems, Noida , UP , India
         client: Large US Based HealthCare Insurance Payer
-        title_accomp: Accomplishments
-        details_accomp: |
         details: |
           Large Insurance payer is a leading healthcare payer organization in US
           that provides healthcare coverage and wellness to Rhode Island. The company’s strategic mission is to improve the health of its members, strengthen relations with providers and simplify business processes.
@@ -251,8 +245,6 @@ experiences:
         time: March 2006 - Nov 2006
         company: Perot Systems, Noida , UP , India
         client: Behavioural Testing Website Client
-        title_accomp: Accomplishments
-        details_accomp: |
         details: |
           Behavioral testing website consists of multiple online tests designed to test the temperament/attitude for various third party clients. Project consisted of developing a website using struts and hibernate.
 
