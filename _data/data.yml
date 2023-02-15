@@ -141,10 +141,13 @@ experiences:
         client: Large US Based HealthCare Insurance Payer
         title_accomp: Accomplishments
         details_accomp: |
-            - Defining and finalizing cloud operating model for Day 2 operations in terms of RACI implementation, tools finalization for monitoring, backup, ITSM integration, CMDB etc.
-            - Trained multiple teams on Cloud Landing zone setup, cloud fundamentals, Terraform & Database migration tools, techniques & migration process.
-            - Consulted on effective IP management & platform implementation techniques for customer's IoT environment residing on Azure. Provided recommendations on reducing IP usage for Pods running on AKS kubernetes clusters, IoT Hub IP management, subnetting on IP CIDR space in an effective manner to reduce the consumption of routable private IP CIDRs.
-            - Assisted EA team in understanding of Cloud Adoption Framework, Cloud Maturity & Cloud Native implementations.
+            - Operationaliazation of Cloud Governance board to discuss and govern cloud adoption within the enterprise.
+            - Creation of Azure cloud landing zone from scratch, using Infa as Code (Arm Templates & Terraform), Hub-Spoke model with centralized service deloyments for Application Gateway, Site2Site VPN, Express Route, WAF, Azue API Manager, Azure Service Bus, Bastion Host, Azure Firewall & Azure Monitoring.
+            - Cloud native Apple IWallet & Google Pay digital id card implementation on Azure to provide insurance card to consumers on there in phones.
+            - Multi-Vendor Azure cloud landing zone operationalization with implementation of Azue Monitoring, Alerts integration with Service Now ITSM, CI/CD Implementation using Azure DevOps.
+            - Initial implementaion of chat-ops using Azure based chat bot integrated with Service now to provide self serve capabilities for FAQ for User Onboarding, training, password reset, incident & change ticket status check etc.
+            - Implementation of FinOps using Azure cost manager for Infra estimation, Budget allocations & consumption alerts. Cost based tagging & tags managment as well as monthly automated reports generation for various business units within the client organiztion.
+            - Implementation of on-prem OpenShift cluster with multi-tenant capabilties to enhance & expedite container based development & deployment to provide easier path for future cloud migrations.
         details: |
           Large Insurance Payer is a leading healthcare not for profit payer organization situated in the New England area of US that provides healthcare coverage and wellness. 
           Large Insurance Payer is among America’s highest-rated health plans according to an annual ranking by the National Committee for Quality Assurance (NCQA). 
@@ -188,17 +191,72 @@ experiences:
             - Leading issues/triage meetings with customer and ensuring appropriate resources are assigned for fixing issues.
             - Managing & overseeing on-call roster for offshore team members providing support in 24*7 operating model. 
 
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
+      - role: Technical Delivery Manager
+        time: 2015 - 2017
+        company: NTT Data India, Noida, UP
+        client: Large US Based HealthCare Insurance Payer
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          Large Insurance payer is a leading healthcare payer organization in US
+          that provides healthcare coverage and wellness to Rhode Island. The company’s strategic mission is to improve the health of its members, strengthen relations with providers and simplify business processes.
+
+            - Lead a team of 20 developers as a resource/delivery manager.
+            - Ensure software deliveries are being done on time.
+            - Ensure quality of the deliveries are as per NTT standards.
+            - Leading issues/triage meetings with customer and ensuring appropriate resources are assigned for fixing issues.
+            - Proposing best resource mix on a project based on requirements being provided by Onshore counterparts.
+            - Resource appraisals and performance management.
+            - Coordination and collaboration with Technical Architects on various aspects of designs/solutions etc being provided to client.
+
+      - role: Senior Software Development Advisor
+        time: 2008 - 2015
+        company: Dell Services, Providence, RI, USA
+        client: Large US Based HealthCare Insurance Payer
+        details: |
+          Large Insurance payer is a leading healthcare payer organization in US
+          that provides healthcare coverage and wellness to Rhode Island. The company’s strategic mission is to improve the health of its members, strengthen relations with providers and simplify business processes.
+
+            - Participate in requirements gathering with client and document System Requirement Specifications/Business Requirement Documentation.
+            - Prepare estimates based on project discovery documents/BRD/SRS.
+            - Design/Review design documents for various Web services/Real Time applications.
+            - Review design proposed by third party vendor.
+            - Review Code/Technical specs prepared by developers.
+            - Coordinate/provide support to client teams during SIT/UAT phase.
+            - Provide performance-testing support, analyze service in case of performance issue and propose design changes to improve performance.
+            - Production turnover/coordination with IS teams for multiple web services on various enhancement/defect fix projects.
+            - Production support lead for 40 web services, responsible for scheduling support rosters, responding to high severity issues, leading offshore/onsite team on various enhancements/defect fix projects, providing weekly status on production status to client etc.
+
+       - role: Development Lead
+        time: 2006 - 2008
+        company: Perot Systems, Noida , UP , India
+        client: Large US Based HealthCare Insurance Payer
+        details: |
+          Large Insurance payer is a leading healthcare payer organization in US
+          that provides healthcare coverage and wellness to Rhode Island. The company’s strategic mission is to improve the health of its members, strengthen relations with providers and simplify business processes.
+
+            - Analysis & Design based on requirements for various Web services/Real Time applications.
+            - Review Code/Technical specs prepared by developers.
+            - Coordinate work efforts/provide support to to new developers joining the project..
+            - Coordination with Onsite support team to meet tight delivery timelines.
+            - Quality control of code being delivered to onsite teams.
+            - Involved in multiple enhancement projects to upgrade infrastructure/software like IBM Websphere upgrade/IBM MQ Upgrade/Oracle upgrade etc.
+            - Review/Coordination of defect fixes.
+      
+      - role: Developer
+        time: March 2006 - Nov 2006
+        company: Perot Systems, Noida , UP , India
+        client: Behavioural Testing Website Client
+        details: |
+          Behavioral testing website consists of multiple online tests designed to test the temperament/attitude for various third party clients. Project consisted of developing a website using struts and hibernate.
+
+            - Requirement gathering, which consisted of studying the Software Requirement Specifications, gathering the business requirements and making the use cases for the requirements.
+            - Making the static prototype for the application where extensive use of Macromedia Dreamweaver was needed. This prototype consisted of the complete flow of the application.
+            - Coding for the Assessment module of the system, which formed base for the system. All the other modules of the system were dependent on this module. The coding process involved extensive use of JSP’s with tag library of the struts framework. The complete application was designed using the struts framework. Hibernate was used to maintain persistence at the data level. 
+            - Unit/System testing for the project.
+            - Integral part for the UAT Phase support team at offshore location. This phase involved extensive Bug fixing in a limited time frame.
+
+
+
+
 projects:
     title: Projects
     intro: >
