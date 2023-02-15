@@ -14,7 +14,7 @@ sidebar:
     # Sidebar links
     email: provided@onrequest.com
     phone: XXX-XXX-XXX
-    timezone: Easter Standard Time
+    timezone: Eastern Standard Time
     citizenship:
     website: credly.com/users/raunaq-singh #do not add http://
     linkedin: raunaq-singh-digital
@@ -33,7 +33,7 @@ sidebar:
       title: Languages
       info:
         - idiom: English
-          level: Progessional
+          level: Professional
 
         - idiom: Hindi
           level: Native
@@ -118,7 +118,7 @@ experiences:
         details_accomp: |
             - Defining and finalizing cloud operating model for Day 2 operations in terms of RACI implementation, tools finalization for monitoring, backup, ITSM integration, CMDB etc.
             - Trained multiple teams on Cloud Landing zone setup, cloud fundamentals, Terraform & Database migration tools, techniques & migration process.
-            - Consulted on effective IP management & platform implementation techniques for Bell IoT environment residing on Azure. Provided recommendations on reducing IP usage for Pods running on AKS kubernetes clusters, IoT Hub IP management, subnetting on IP CIDR space in an effective manner to reduce the consumption of routable private IP CIDRs.
+            - Consulted on effective IP management & platform implementation techniques for customers IoT environment residing on Azure. Provided recommendations on reducing IP usage for Pods running on AKS kubernetes clusters, IoT Hub IP management, subnetting on IP CIDR space in an effective manner to reduce the consumption of routable private IP CIDRs.
             - Assisted EA team in understanding of Cloud Adoption Framework, Cloud Maturity & Cloud Native implementations.
         details: |
           Telecom provider is one of Canada’s largest telecommunications provider. 
@@ -129,7 +129,7 @@ experiences:
             - Cloud migration strategy and planning - Infra/App/DB Discovery, Modelling, Migration Planning.
             - Multi-Cloud Governance in terms of IAM, Cost, Policy & Tag implementation, assessment of Cloud Management platform like VMWare Cloud Health, Apptio Cloud ability, Morpheus Data.
             - Driving the SLA targets, Project enhancement, streamline the client infrastructure with regard to reduction of Incident with proper control mechanisms.
-            - Cloud architecture assessments for various tenants of Bell as part of Cloud community of practise team.
+            - Cloud architecture assessments for various tenants of customer as part of Cloud community of practise team.
             - Key role in hiring & building the team.
             - Provided trainings to the team members on technical topics & the latest technology. 
             - Provided trainings to the team members on technical topics & the latest technology.
@@ -143,7 +143,7 @@ experiences:
         details_accomp: |
             - Defining and finalizing cloud operating model for Day 2 operations in terms of RACI implementation, tools finalization for monitoring, backup, ITSM integration, CMDB etc.
             - Trained multiple teams on Cloud Landing zone setup, cloud fundamentals, Terraform & Database migration tools, techniques & migration process.
-            - Consulted on effective IP management & platform implementation techniques for Bell IoT environment residing on Azure. Provided recommendations on reducing IP usage for Pods running on AKS kubernetes clusters, IoT Hub IP management, subnetting on IP CIDR space in an effective manner to reduce the consumption of routable private IP CIDRs.
+            - Consulted on effective IP management & platform implementation techniques for customer's IoT environment residing on Azure. Provided recommendations on reducing IP usage for Pods running on AKS kubernetes clusters, IoT Hub IP management, subnetting on IP CIDR space in an effective manner to reduce the consumption of routable private IP CIDRs.
             - Assisted EA team in understanding of Cloud Adoption Framework, Cloud Maturity & Cloud Native implementations.
         details: |
           Large Insurance Payer is a leading healthcare not for profit payer organization situated in the New England area of US that provides healthcare coverage and wellness. 
