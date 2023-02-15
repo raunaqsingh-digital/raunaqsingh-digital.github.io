@@ -195,6 +195,8 @@ experiences:
         time: 2015 - 2017
         company: NTT Data India, Noida, UP
         client: Large US Based HealthCare Insurance Payer
+        title_accomp: Accomplishments
+        details_accomp: |
         details: |
           Large Insurance payer is a leading healthcare payer organization in US
           that provides healthcare coverage and wellness to Rhode Island. The company’s strategic mission is to improve the health of its members, strengthen relations with providers and simplify business processes.
@@ -211,6 +213,8 @@ experiences:
         time: 2008 - 2015
         company: Dell Services, Providence, RI, USA
         client: Large US Based HealthCare Insurance Payer
+        title_accomp: Accomplishments
+        details_accomp: |
         details: |
           Large Insurance payer is a leading healthcare payer organization in US
           that provides healthcare coverage and wellness to Rhode Island. The company’s strategic mission is to improve the health of its members, strengthen relations with providers and simplify business processes.
@@ -225,10 +229,12 @@ experiences:
             - Production turnover/coordination with IS teams for multiple web services on various enhancement/defect fix projects.
             - Production support lead for 40 web services, responsible for scheduling support rosters, responding to high severity issues, leading offshore/onsite team on various enhancements/defect fix projects, providing weekly status on production status to client etc.
 
-       - role: Development Lead
+      - role: Development Lead
         time: 2006 - 2008
         company: Perot Systems, Noida , UP , India
         client: Large US Based HealthCare Insurance Payer
+        title_accomp: Accomplishments
+        details_accomp: |
         details: |
           Large Insurance payer is a leading healthcare payer organization in US
           that provides healthcare coverage and wellness to Rhode Island. The company’s strategic mission is to improve the health of its members, strengthen relations with providers and simplify business processes.
@@ -241,10 +247,12 @@ experiences:
             - Involved in multiple enhancement projects to upgrade infrastructure/software like IBM Websphere upgrade/IBM MQ Upgrade/Oracle upgrade etc.
             - Review/Coordination of defect fixes.
       
-      - role: Developer
+    - role: Developer
         time: March 2006 - Nov 2006
         company: Perot Systems, Noida , UP , India
         client: Behavioural Testing Website Client
+        title_accomp: Accomplishments
+        details_accomp: |
         details: |
           Behavioral testing website consists of multiple online tests designed to test the temperament/attitude for various third party clients. Project consisted of developing a website using struts and hibernate.
 
@@ -254,10 +262,12 @@ experiences:
             - Unit/System testing for the project.
             - Integral part for the UAT Phase support team at offshore location. This phase involved extensive Bug fixing in a limited time frame.
 
-      - role: Developer
+    - role: Developer
         time: Dec 2005 - March 2006
         company: Perot Systems, Noida , UP , India
         client: Leading US Based Fitness Chain
+        title_accomp: Accomplishments
+        details_accomp: |
         details: |
           US Based fitness chains is one of the leading fitness center chains in the world. They have around 300 fitness centers world over. 
           There E-commerce website provides visitors with a consistent, engaging, on-brand experience that reflects 24 Hour Fitness' personality and values.  
@@ -269,8 +279,6 @@ experiences:
             - Delivering Functional Specification and Low Level Design documents.
             - Coding for the requirements of the change requests. 
             - Coding for enhancing the functionality of the system. 
-
-
 
 projects:
     title: Projects
